@@ -23,9 +23,9 @@ Essa funcionalidade permite que você tenha um controle preciso sobre o seu regi
   <p align="left">
  
   <img src="https://github.com/Celbute/phots/blob/master/assets/AppMedicaments/cadMedica.png"  width="250px">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AppMedicaments/home.png"  width="242px">
   <img src="https://github.com/Celbute/phots/blob/master/assets/AppMedicaments/home2.png"  width="250px">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/AppMedicaments/sair.png"  width="250px">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/AppMedicaments/sair.png"  width="240px"> 
+  
   
   </p>
 
